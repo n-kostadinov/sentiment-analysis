@@ -3,4 +3,5 @@ Natural language processing (NLP) is a field of computer science, artificial int
 
 Visit machinememos.com
 
-Link to post: https://goo.gl/G1Qu6X
+Link to post: https://goo.gl/G1Qu6X or open SentimentAnalysis.ipynb in GitHub
+
